@@ -46,7 +46,7 @@ Lately, I've been intrigued by the idea of using Deep Learning NLP models on edg
 <br>
 <p align="center">
     <a href="mailto:mirco.cardinale.91@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://mirco-cardinale-portfolio.herokuapp.com/"><img alt="Twitter" src="https://cdn.pixabay.com/photo/2019/09/12/13/47/pictogram-4471660_1280.png" title="Website" height="40" /></a>
+    <a href="https://mirco-cardinale-portfolio.herokuapp.com/"><img alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Icon_WebResource_DigitalPreservation.png" title="Website" height="40" /></a>
 </p>
 <hr \>
 <p align="center">
