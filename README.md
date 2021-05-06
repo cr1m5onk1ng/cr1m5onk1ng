@@ -2,32 +2,32 @@
 
 ## Hi 👋 I'm Mirco Cardinale,
 
-and I've recently obtained a BS in Computer Science. 
+and I've recently obtained a **BS in Computer Science**. 
 
-I'm passionate about NLP, machine learning in general, data science, languages and cultures. 
+I'm passionate about **NLP**, **machine learning** in general, **data science**, **languages** and **cultures**. 
 
-I'm also a Cultural Anthropology graduate.
+I'm also a **Cultural Anthropology** graduate.
 
-I like digital humanities and the concept of applying computer science to humanist fields. 
+I like **digital humanities** and the concept of applying computer science to humanist fields. 
 
-Lately, I've been intrigued by the idea of using Deep Learning NLP models on edge devices.
+Lately, I've been intrigued by the idea of using Deep Learning NLP models on **edge devices**.
 
 
 ### Things I do
 ---
 
-- I’m currently working on applying NLP functionalities based on transformers models to my language learning [android app](https://github.com/cr1m5onk1ng/nala_android_app)
-- I'm doing experiments with [semantic search](https://github.com/cr1m5onk1ng/semantic-search-api) and [text similarity](https://github.com/cr1m5onk1ng/text_similarity)
-- I’m currently learning Rust for WASM, microservices and scientific computing
-- I'm studying the most recent advances in NLP and I try to read papers on a weekly bases
-- I learn languages for no particular reason
-- I fail constantly and repeatedly before actually managing to achieve something
+- I’m currently working on **applying NLP functionalities based on transformers models to my language learning [android app](https://github.com/cr1m5onk1ng/nala_android_app)**
+- I'm doing **experiments with [semantic search](https://github.com/cr1m5onk1ng/semantic-search-api) and [text similarity](https://github.com/cr1m5onk1ng/text_similarity)**
+- I’m currently **learning Rust** for WASM, microservices and scientific computing
+- I'm studying the **most recent advances in NLP** and I try to read papers on a weekly bases
+- I **learn languages** for no particular reason
+- I **fail constantly** and repeatedly before actually managing to achieve something
 
 ### Things I'd like to do
 ---
 
-- I'd like to build useful things (possibly, things that work)
-- I'd like to build things that can help someone do something
+- I'd like to **build useful things** (possibly, things that work)
+- I'd like to build **things that can help** someone do something
 - I'd like to be able to say I'm good at math
 
 ### My skills include
