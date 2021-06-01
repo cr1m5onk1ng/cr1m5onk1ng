@@ -12,22 +12,23 @@ I like **digital humanities** and the concept of applying computer science to hu
 
 Lately, I've been intrigued by the idea of using Deep Learning NLP models on **edge devices**.
 
+[My Portfolio](https://mirco-cardinale-portfolio.herokuapp.com/)
 
 ### Things I do
 ---
 
-- I’m currently working on **applying NLP functionalities based on transformers models to my language learning [android app](https://github.com/cr1m5onk1ng/nala_android_app)**
-- I'm doing **experiments with [semantic search](https://github.com/cr1m5onk1ng/semantic-search-api) and [text similarity](https://github.com/cr1m5onk1ng/text_similarity)**
-- I’m currently **learning Go and Rust** for WASM, microservices and scientific computing
+- I’m currently working on **applying NLP functionalities to my language learning [android app](https://github.com/cr1m5onk1ng/nala_android_app)**
+- I'm doing some **experiments with [semantic search](https://github.com/cr1m5onk1ng/semantic-search-api) and [text similarity](https://github.com/cr1m5onk1ng/text_similarity)** 
 - I'm studying the **most recent advances in NLP** and I try to read papers on a weekly bases
+- I’m trying to **learn Go** for WASM, microservices and APIs
 - I **learn languages** for no particular reason
 - I **fail constantly** and repeatedly before actually managing to achieve something
 
 ### Things I'd like to do
 ---
 
-- I'd like to **build useful things** (possibly, things that work)
-- I'd like to build **things that can help** someone do something
+- I'd like to build useful things (possibly, things that work)
+- I'd like to build things that can help someone do something
 - I'd like to be able to say I'm good at math
 
 ### My skills include
