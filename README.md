@@ -4,13 +4,13 @@
 
 and I've recently obtained a **BS in Computer Science**. 
 
-I'm passionate about **NLP**, **machine learning** in general, **data science**, **languages** and **cultures**. 
+I'm passionate about **NLP**, **app development**, **data science**, **languages** and **cultures**. 
 
 I'm also a **Cultural Anthropology** graduate.
 
 I like **digital humanities** and the concept of applying computer science to humanist fields. 
 
-Lately, I've been intrigued by the idea of using Deep Learning NLP models on **edge devices**.
+Lately, I've been intrigued by the idea of building app powered by **NLP functionalities**.
 
 [My Portfolio](https://mirco-cardinale-portfolio.herokuapp.com/)
 
