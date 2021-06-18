@@ -10,7 +10,7 @@ I'm also a **Cultural Anthropology** graduate.
 
 I like **digital humanities** and the concept of applying computer science to humanist fields. 
 
-Lately, I've been intrigued by the idea of building app powered by **NLP functionalities**.
+Lately, I've been intrigued by the idea of building apps powered by **NLP functionalities**.
 
 [My Portfolio](https://mirco-cardinale-portfolio.herokuapp.com/)
 
