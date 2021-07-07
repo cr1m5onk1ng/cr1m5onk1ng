@@ -36,11 +36,14 @@ Lately, I've been intrigued by the idea of building apps powered by **NLP functi
 <p align="left">
     <img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="40" height="40" />
 	<img title="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"  height="40" />
+	<img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"height="40" />
 	<img title="Android" src="https://www.investireoggi.it/tech/wp-content/uploads/sites/14/2017/11/Smartphone-Android-a-rischio-attacco-hacker-scoperta-falla-nel-sistema-di-sicurezza-640x342.jpg" width="80" height="40" />
 	<img title="Java" src="https://www.bitmat.it/wp-content/uploads/2014/07/java-per-android-gratis-696x522.jpg" width="40" height="40" />
+	<img title="Kotlin" src="https://brandslogos.com/wp-content/uploads/thumbs/kotlin-logo-vector.svg" width="40" height="40" />
 	<img title="SQL" src="https://italiancoders.it/wp-content/uploads/2017/10/sql-1.png" width="80" height="40" />
 	<img title="Flutter" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"  height="40" />
-	<img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"height="40" />
+	<img title="javascript" src="https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg"  height="40" />
+	
 	
 </p>
    
