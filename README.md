@@ -16,7 +16,7 @@ Lately, I've been intrigued by the idea of building apps powered by **NLP functi
 
 ### Things I do
 ---
-- Working on a [platform](https://github.com/cr1m5onk1ng/nala_platform_golang) aimed to make finding and discussing web content for language learning purposes simpler and more engaging
+- Working on a [platform](https://github.com/cr1m5onk1ng/nala_platform_golang) aimed to **make finding and discussing web content for language learning purposes** simpler and more engaging
 - Working on **applying NLP functionalities to my language learning [android app](https://github.com/cr1m5onk1ng/nala_android_app)**
 - I'm doing some **experiments with [semantic search](https://github.com/cr1m5onk1ng/semantic-search-api) and [text similarity](https://github.com/cr1m5onk1ng/text_similarity)** 
 - I'm studying the **most recent advances in NLP** and I try to read papers on a weekly bases
