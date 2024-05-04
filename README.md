@@ -2,11 +2,9 @@
 
 ## Hi 👋 I'm Mirco Cardinale,
 
-and I'm a **Software Developer** and **Computer Science graduate**. 
+I'm a **Software Developer**, **Computer Science graduate** and a **language geek** (both programming and natural). 
 
 I'm passionate about **NLP**, **app development**, **languages**. 
-
-I'm also a **Cultural Anthropology** graduate.
 
 Lately, I've been intrigued by the idea of building apps powered by **NLP functionalities**.
 
